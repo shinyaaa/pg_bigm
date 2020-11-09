@@ -18,6 +18,7 @@
 #include "storage/bufpage.h"
 #include "utils/builtins.h"
 
+
 /* GUC variable */
 extern bool bigm_enable_recheck;
 extern int	bigm_gin_key_limit;
